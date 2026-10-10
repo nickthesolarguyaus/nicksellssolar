@@ -1,11 +1,5 @@
-# NickSellsSolar
+NickSellsSolar website update
 
-GitHub Pages-ready portfolio website.
+Change: Cropped excess blank space above the portrait and aligned the image to the top of the About Me photo frame. Kept the horizontal flip and all other content unchanged.
 
-## Replace before publishing
-- `assets/nick-photo-placeholder.jpg` with Nick's professional photo.
-- Add real recordings as `assets/calls/call-01.mp3` through `call-04.mp3`.
-- Replace `YOUR_EMAIL_HERE` and `YOUR_LINKEDIN_URL` in `index.html`.
-- Replace any case-study placeholder text with approved/anonymised customer data.
-
-Open `index.html` locally or publish with GitHub Pages.
+Publish index.html and the complete assets folder to GitHub Pages, preserving the folder structure.
